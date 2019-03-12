@@ -1,0 +1,58 @@
+package constants;
+
+public class XMLConstantParameters
+{
+  public static final String N = "N";
+  public static final String DT = "DT";
+  public static final String NM = "NM";
+  public static final String ID = "ID";
+  public static final String SC = "SC";
+  public static final String CP = "CP";
+  public static final String POOL = "POOL";
+  public static final String PLA = "PLA";
+  public static final String CLVL = "CLVL";
+  public static final String YST = "YST";
+  public static final String YSTD = "YSTD";
+  public static final String PLE = "PLE";
+  public static final String SML = "SML";
+  public static final String AVG = "AVG";
+  public static final String BIG = "BIG";
+  public static final String SB = "SB";
+  public static final String BB = "BB";
+  public static final String ANTE = "ANTE";
+  public static final String NBR = "NBR";
+  public static final String NBT = "NBT";
+  public static final String STT = "STT";
+  public static final String RN = "RN";
+  public static final String BYIN = "BYIN";
+  public static final String RBS = "RBS";
+  public static final String ADS = "ADS";
+  public static final String FEE = "FEE";
+  public static final String LVLT = "LVLT";
+  public static final String LVLI = "LVLI";
+  public static final String RGS = "RGS";
+  public static final String RGSD = "RGSD";
+  public static final String STS = "STS";
+  public static final String WTC = "WTC";
+  public static final String BIA = "BIA";
+  public static final String PPD = "PPD";
+  public static final String ENT = "ENT";
+  public static final String TEID = "TEID";
+  public static final String SST = "SST";
+  public static final String SESG = "SESG";
+  public static final String AVGP = "AVGP";
+  public static final String FLP = "FLP";
+  public static final String HANDS = "HANDS";
+  public static final String TBET = "TBET";
+  public static final String TWON = "TWON";
+  public static final String BLCK = "BLCK";
+  public static final String MSG = "MSG";
+  public static final String TTL = "TTL";
+  public static final String TTYPE = "TTYPE";
+  public static final String MPTS = "MPTS";
+  public static final String TQTY = "TQTY";
+  public static final String FRRL = "FRRL";
+  public static final String PLST = "PLST";
+  public static final String TTS = "TTS";
+  public static final String CNT = "CNT";
+}
