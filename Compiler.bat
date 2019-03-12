@@ -1,0 +1,2 @@
+javac -Xlint:unchecked  -classpath ./lib/mysql-connector-java-5.1.5-bin.jar; configuration/*.java database/*.java exception/*.java game/*.java gnupg/*.java main/*.java network/*.java output/*.java rightManagement/*.java utils/*.java
+pause
